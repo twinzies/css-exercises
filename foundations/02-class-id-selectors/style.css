@@ -1,0 +1,19 @@
+.pinkify {
+    background-color: hsla(0, 87%, 69%);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#blueme {
+    color: blue;
+    font-size: 36px;
+}
+
+.nobiggy {
+    font-size: 24px;
+}
+
+#hulkify {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
